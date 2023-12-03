@@ -1,0 +1,11 @@
+Model Information:
+* title:	Weed In A Bag
+* source:	https://sketchfab.com/3d-models/weed-in-a-bag-7eaf2f0ca84c4251afe0812c0ec84abe
+* author:	Supervigy (https://sketchfab.com/supervigy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Weed In A Bag" (https://sketchfab.com/3d-models/weed-in-a-bag-7eaf2f0ca84c4251afe0812c0ec84abe) by Supervigy (https://sketchfab.com/supervigy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

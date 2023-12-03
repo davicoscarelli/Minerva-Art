@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trash Dumpster (Buenos Aires)
+* source:	https://sketchfab.com/3d-models/trash-dumpster-buenos-aires-8615205a69da442cb9b882bf2297f13e
+* author:	swarped (https://sketchfab.com/swarped)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trash Dumpster (Buenos Aires)" (https://sketchfab.com/3d-models/trash-dumpster-buenos-aires-8615205a69da442cb9b882bf2297f13e) by swarped (https://sketchfab.com/swarped) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

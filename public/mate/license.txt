@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mate
+* source:	https://sketchfab.com/3d-models/mate-a0ee8774786f4495b783dec4e44a1341
+* author:	NICOLEAPAGON (https://sketchfab.com/NICOLEAPAGON)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mate" (https://sketchfab.com/3d-models/mate-a0ee8774786f4495b783dec4e44a1341) by NICOLEAPAGON (https://sketchfab.com/NICOLEAPAGON) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Korail Pokari Sweat Vending Machine
+* source:	https://sketchfab.com/3d-models/korail-pokari-sweat-vending-machine-7ce5f0c169a0433583e25b62c624780d
+* author:	bolinas (https://sketchfab.com/bolinas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Korail Pokari Sweat Vending Machine" (https://sketchfab.com/3d-models/korail-pokari-sweat-vending-machine-7ce5f0c169a0433583e25b62c624780d) by bolinas (https://sketchfab.com/bolinas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

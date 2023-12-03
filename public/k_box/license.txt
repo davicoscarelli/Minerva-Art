@@ -1,0 +1,11 @@
+Model Information:
+* title:	Korean Utility Box
+* source:	https://sketchfab.com/3d-models/korean-utility-box-62d0ff9528b448c682d84897a3fda876
+* author:	bolinas (https://sketchfab.com/bolinas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Korean Utility Box" (https://sketchfab.com/3d-models/korean-utility-box-62d0ff9528b448c682d84897a3fda876) by bolinas (https://sketchfab.com/bolinas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
