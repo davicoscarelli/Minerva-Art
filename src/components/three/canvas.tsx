@@ -5,14 +5,15 @@ import Gallery from "components/three/gallery";
 import Piece from "components/three/piece";
 import Painting from "components/three/painting";
 import Graffiti from "components/three/graffiti";
-import paintingsData from "components/three/paintings_data.json"; // Adjust the path as needed
+import paintingsData from "components/three/paintings_data.json";
 
 import { Loader as CanvasLoader, Preload } from "@react-three/drei";
 import { Mesh } from "three";
 
 const IndexPage = (): JSX.Element => {
   const [floor, setFloor] = useState<Mesh>();
-  const [audio] = useState<HTMLAudioElement | null>(null);
+  const [audio] = useState(new Audio());
+  // const [audio] = useState<HTMLAudioElement | null>(null); // For deploy
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentSong, setCurrentSong] = useState("");
 
